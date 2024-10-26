@@ -3,7 +3,7 @@
 **Machine Learning Engineer | Software Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/dhananjayadissanayake/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/IT21313370)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/dhananjayaDev)  
 [![Website](https://img.shields.io/badge/Website-Portfolio-brightgreen)](http://dhananjaya.onrender.com/)
 
 ---
