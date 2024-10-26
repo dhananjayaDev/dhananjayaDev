@@ -4,6 +4,9 @@
 
 <img src="https://github.com/user-attachments/assets/b13fe3fc-ce36-40f0-a5fe-5fae23ce08f2" alt="description" width="500" height="400">
 
+<img src="https://github.com/user-attachments/assets/2ba899ac-e3e5-4ec7-ae7d-d9d02820bce3" alt="description" width="500" height="400">
+
+
 
 **Machine Learning Engineer | Software Developer**
 
