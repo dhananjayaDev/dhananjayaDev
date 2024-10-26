@@ -1,5 +1,8 @@
 # Dhananjaya Dissanayake
 
+![Animated Welcome](https://github.com/your-username/your-repository/blob/main/path-to-image/animated-welcome.gif)
+
+
 **Machine Learning Engineer | Software Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/dhananjayadissanayake/)  
