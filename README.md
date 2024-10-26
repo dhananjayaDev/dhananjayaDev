@@ -68,13 +68,14 @@ I'm a passionate machine learning engineer and software developer dedicated to t
 
 ## 📈 GitHub Stats
 
-![Dhananjaya's GitHub Stats](#) <!-- Link to GitHub stats here -->
+![Dhananjaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhananjayaDev&show_icons=true&theme=radical)
 
 ---
 
 ## 📊 Top Languages
 
-![Top Languages](#) <!-- Link to top languages here -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjayaDev&layout=compact&theme=radical)
+
 
 ---
 
