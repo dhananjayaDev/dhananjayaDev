@@ -23,22 +23,38 @@ I'm a passionate machine learning engineer and software developer dedicated to t
 ## 🛠️ Skills
 
 ### Programming Languages
-- **Python, R, SQL, C, C++, Java, JavaScript**
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Web & Software Development
-- **Flask, MERN Stack (MongoDB, Express.js, React.js, Node.js)**
+- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Machine Learning & Data Science
-- **Neural Networks, Statistical Analysis, Deep Learning, Data Mining**
+- ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-%23ff7f0e?style=for-the-badge)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-%2342a5f5?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23e91e63?style=for-the-badge)
+![Data Mining](https://img.shields.io/badge/Data%20Mining-%239ccc65?style=for-the-badge)
 
 ### Databases
-- **MySQL, MongoDB, Firebase, Oracle**
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Technologies & Tools
-- **DevOps & Cloud**: Azure, Docker, Kubernetes
-- **Data Visualization**: PowerBI, Matplotlib, Seaborn
-- **Big Data**: Hadoop
-- **Other Tools**: Git, GitHub, Figma, Postman
+- **DevOps & Cloud**: ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+- **Data Visualization**: ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2342a5f5?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-%233aafa9?style=for-the-badge)
+- **Big Data**: ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+- **Other Tools**: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -65,4 +81,3 @@ I'm a passionate machine learning engineer and software developer dedicated to t
 2. **Leveraging HR Analytics for Workforce Insights with Data Mining Techniques**
 
 ⭐️ From Dhananjaya Dissanayake
-
