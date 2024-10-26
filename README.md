@@ -1,6 +1,6 @@
 # Dhananjaya Dissanayake
 
-![coding](https://github.com/user-attachments/assets/17039ac2-85c9-4a09-896a-2821950b49d1)
+
 
 <img src="https://github.com/user-attachments/assets/17039ac2-85c9-4a09-896a-2821950b49d1" width="600" height="400" alt="coding">
 
