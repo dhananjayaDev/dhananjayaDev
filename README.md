@@ -18,7 +18,8 @@
 ## 🚀 About Me
 I'm a passionate machine learning engineer and software developer dedicated to tackling complex challenges through technology. Here’s a bit about my journey:
 
-- 🔭 Currently working on **AI and machine learning projects** with a focus on **Flask backend integration** at **Bluechip Technologies Asia**
+- 💼 Worked for **Bluechip Technologies Asia** as an **AI and ML intern**
+- 🔭 Currently working on **AI and machine learning projects** with a focus on **Flask backend integration**
 - 🌱 Expanding my skills in **Kubernetes** and **DevOps** practices
 - 👯 Looking to collaborate on **open-source projects** related to AI, data science, and quality assurance
 - 🤔 Seeking guidance in advanced **React, Next.js, and deep learning** techniques
