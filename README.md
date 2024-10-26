@@ -1,9 +1,9 @@
 # Dhananjaya Dissanayake
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/b13fe3fc-ce36-40f0-a5fe-5fae23ce08f2" width="300" height="220" alt="description">
-    <img src="https://github.com/user-attachments/assets/17039ac2-85c9-4a09-896a-2821950b49d1" width="300" height="220" alt="coding">
-    <img src="https://github.com/user-attachments/assets/2ba899ac-e3e5-4ec7-ae7d-d9d02820bce3" width="300" height="220" alt="description">
+    <img src="https://github.com/user-attachments/assets/b13fe3fc-ce36-40f0-a5fe-5fae23ce08f2" width="280" height="220" alt="description">
+    <img src="https://github.com/user-attachments/assets/17039ac2-85c9-4a09-896a-2821950b49d1" width="280" height="220" alt="coding">
+    <img src="https://github.com/user-attachments/assets/2ba899ac-e3e5-4ec7-ae7d-d9d02820bce3" width="280" height="220" alt="description">
 </p>
 
 
