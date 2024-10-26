@@ -2,10 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/17039ac2-85c9-4a09-896a-2821950b49d1" width="600" height="400" alt="coding">
 
-
-![68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41](https://github.com/user-attachments/assets/b13fe3fc-ce36-40f0-a5fe-5fae23ce08f2)
-
-<img src="https://github.com/user-attachments/assets/b13fe3fc-ce36-40f0-a5fe-5fae23ce08f2" alt="description" width="500" height="300">
+<img src="https://github.com/user-attachments/assets/b13fe3fc-ce36-40f0-a5fe-5fae23ce08f2" alt="description" width="500" height="400">
 
 
 **Machine Learning Engineer | Software Developer**
