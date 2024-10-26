@@ -1,6 +1,7 @@
 # Dhananjaya Dissanayake
 
-![Animated Welcome](https://github.com/your-username/your-repository/blob/main/path-to-image/animated-welcome.gif)
+![coding](https://github.com/user-attachments/assets/17039ac2-85c9-4a09-896a-2821950b49d1)
+
 
 
 **Machine Learning Engineer | Software Developer**
