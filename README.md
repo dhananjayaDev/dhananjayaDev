@@ -7,7 +7,7 @@
 
 
 
-**Machine Learning Engineer | Software Developer**
+**AI/ML Developer | Software Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/dhananjayadissanayake/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/dhananjayaDev)  
