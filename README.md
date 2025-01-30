@@ -2,7 +2,7 @@
 
 <p align="center">
 <!--     <img src="https://github.com/user-attachments/assets/b13fe3fc-ce36-40f0-a5fe-5fae23ce08f2" width="280" height="220" alt="description"> -->
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGR6OHhnbmxkNDZqOGxqbTYyMjNyb21iczV1ZGtteHdydHA5OWV0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" width="280" height="220" alt="coding">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGR6OHhnbmxkNDZqOGxqbTYyMjNyb21iczV1ZGtteHdydHA5OWV0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" width="300" height="280" alt="coding">
 <!--     <img src="https://github.com/user-attachments/assets/17039ac2-85c9-4a09-896a-2821950b49d1" width="280" height="220" alt="coding"> -->
 </p>
 
