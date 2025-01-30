@@ -87,10 +87,3 @@ I'm a passionate machine learning engineer and software developer dedicated to t
 - **LinkedIn**: [Dhananjaya Dissanayake](https://www.linkedin.com/in/dhananjayadissanayake/)
 
 ---
-
----
-
-## 📫 Let's Connect!
-- **LinkedIn**: [Dhananjaya Dissanayake](https://www.linkedin.com/in/dhananjayadissanayake/)
-
----
