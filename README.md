@@ -96,6 +96,17 @@ I'm a passionate machine learning engineer and software developer dedicated to t
 
 ### Data Visualization & BI Tools
 - ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge)
+
+### Other Tools
+  - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  - ![Bruno](https://img.shields.io/badge/Bruno-FF7043?style=for-the-badge&logo=bruno&logoColor=white)
+  - ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+  - ![Krita](https://img.shields.io/badge/Krita-000000?style=for-the-badge&logo=krita&logoColor=white)
+  - ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+    
 ---
 
 ## 📈 GitHub Stats
