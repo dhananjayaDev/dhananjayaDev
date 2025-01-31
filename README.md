@@ -34,6 +34,7 @@ I'm a passionate machine learning engineer and software developer dedicated to t
 
 ## 🛠️ Skills
 
+
 ### Programming Languages
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -61,19 +62,23 @@ I'm a passionate machine learning engineer and software developer dedicated to t
 ![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-%2342a5f5?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23e91e63?style=for-the-badge)
 ![Data Mining](https://img.shields.io/badge/Data%20Mining-%239ccc65?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### Databases
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-6CC62D?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 ### Technologies & Tools
 - **DevOps & Cloud**: ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 - **Data Visualization**: ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2342a5f5?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-%233aafa9?style=for-the-badge)
 - **Big Data**: ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
 - **Other Tools**: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+- ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-FF6F61?style=for-the-badge&logo=microsoft&logoColor=white)
+- ![Bruno](https://img.shields.io/badge/Bruno-FF7043?style=for-the-badge&logo=bruno&logoColor=white)
 ---
 
 ## 📈 GitHub Stats
