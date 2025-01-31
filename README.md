@@ -62,6 +62,7 @@ I'm a passionate machine learning engineer and software developer dedicated to t
 ![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-%2342a5f5?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23e91e63?style=for-the-badge)
 ![Data Mining](https://img.shields.io/badge/Data%20Mining-%239ccc65?style=for-the-badge)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-FF6F61?style=for-the-badge&logo=microsoft&logoColor=white)
 
 
 ### Databases
@@ -77,7 +78,6 @@ I'm a passionate machine learning engineer and software developer dedicated to t
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 - **Big Data**: ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
 - **Other Tools**: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-FF6F61?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Bruno](https://img.shields.io/badge/Bruno-FF7043?style=for-the-badge&logo=bruno&logoColor=white)
 ---
 
