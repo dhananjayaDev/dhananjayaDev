@@ -113,13 +113,13 @@ I'm a passionate machine learning engineer and software developer dedicated to t
 
 ## 📈 GitHub Stats
 
-![Dhananjaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhananjayaDev&show_icons=true&theme=tokyonight )
+![Dhananjaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhananjayaDev&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📊 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjayaDev&layout=compact&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjayaDev&layout=compact&theme=tokyonight)
 
 ---
 
