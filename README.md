@@ -80,6 +80,7 @@ I'm a passionate machine learning engineer and software developer dedicated to t
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjayaDev&layout=compact&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjayaDev&layout=compact&theme=radical)
 
 ---
 
