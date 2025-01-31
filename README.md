@@ -95,7 +95,7 @@ I'm a passionate machine learning engineer and software developer dedicated to t
 ![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 
 ### Data Visualization & BI Tools
-- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge
+- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge)
 ---
 
 ## 📈 GitHub Stats
