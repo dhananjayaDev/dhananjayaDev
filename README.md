@@ -25,7 +25,7 @@ I'm a passionate machine learning engineer and software developer dedicated to t
 - 💼 Worked for **Bluechip Technologies Asia** as an **AI and ML intern**
 - 🔭 Currently working on **AI and machine learning projects** with a focus on vehicle automation and automated systems using AI
 - 🌱 Expanding my skills in **Kubernetes** and **DevOps** practices
-- 👯 Looking to collaborate on **open-source projects** related to AI, data science, and quality assurance
+- 👯 Looking to collaborate on **open-source projects** related to AI, Data Science, and Software Engineering
 - 🤔 Seeking guidance in advanced **React, Next.js, and deep learning** techniques
 - 💬 Ask me about **AI, data science, machine learning, and web app development**
 - ⚡ Fun fact: I’m into exploring **neural network models for NLP applications!**
