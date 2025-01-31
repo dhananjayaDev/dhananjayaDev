@@ -119,7 +119,7 @@ I'm a passionate machine learning engineer and software developer dedicated to t
 
 ## 📊 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjayaDev&layout=compact&theme=magma)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjayaDev&layout=compact&theme=blueberry)
 
 ---
 
