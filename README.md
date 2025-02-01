@@ -17,7 +17,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/dhananjayaDev)  
 [![Website](https://img.shields.io/badge/Website-Portfolio-brightgreen)](http://dhananjaya.onrender.com/)  
 [![Profile Views](https://komarev.com/ghpvc/?username=dhananjayaDev&label=Profile%20Views&color=blue&style=plastic)](https://github.com/dhananjayaDev)
-![Visitors](https://visitcount.itsvg.in/api?id=dhananjayaDev&label=Profile%20Views&color=6&icon=0&pretty=true)
 
 
 
