@@ -16,7 +16,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/dhananjayadissanayake/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/dhananjayaDev)  
 [![Website](https://img.shields.io/badge/Website-Portfolio-brightgreen)](http://dhananjaya.onrender.com/)  
-[![Profile Views](https://img.shields.io/badge/Profile_Views-🔍-blue)](https://github.com/dhananjayaDev)
+[![Profile Views](https://komarev.com/ghpvc/?username=dhananjayaDev&label=Profile%20Views&color=blue&style=flat-square)](https://github.com/dhananjayaDev)
+
 
 
 
