@@ -125,6 +125,7 @@ I'm a passionate machine learning engineer and software developer dedicated to t
 
 ## 📫 Let's Connect!
 - **LinkedIn**: [Dhananjaya Dissanayake](https://www.linkedin.com/in/dhananjayadissanayake/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhananjayadissanayake/)
 - [![Email Me](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:d.dhananjaya@outlook.com)
 
 
