@@ -29,7 +29,7 @@
 ## 🚀 About Me
 I'm a passionate machine learning engineer and software developer dedicated to tackling complex challenges through technology. Here’s a bit about my journey:
 
-- 👨‍💻 Currently working for **Ravana Industries** as a **Fullstack Developer Intern**
+- 👨‍💻 Worked for **Ravana Industries** as a **Fullstack Developer Intern**
 - 💼 Worked for **Bluechip Technologies Asia** as an **AI and ML intern**
 - 🔭 Currently working on **AI and machine learning projects** with a focus on vehicle automation and automated systems using AI
 - 🌱 Expanding my skills in **Kubernetes** and **DevOps** practices
