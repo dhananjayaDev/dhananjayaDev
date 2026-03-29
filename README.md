@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhananjayadissanayake/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="http://dhananjaya.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-Website-brightgreen?style=flat-square&logo=google-chrome" alt="Website"></a>
+  <a href="https://portfolio-2026-4xtk06dil-dhananjayadevs-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Website-brightgreen?style=flat-square&logo=google-chrome" alt="Website"></a>
   <img src="https://komarev.com/ghpvc/?username=dhananjayaDev&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views">
 </p>
 
