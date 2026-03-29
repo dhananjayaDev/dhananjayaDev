@@ -25,7 +25,7 @@ Results-oriented individual committed to engineering excellence and data-driven 
 
 * Developed a multi-tenant Flask SaaS incorporating spreadsheet ETL to SQLite, LLM-orchestrated data cleaning, and dynamic dashboards using Matplotlib and Chart.js.
 * Implemented a viseme-based avatar for LMS, achieving multi-avatar lip-sync with near-zero GPU costs by bypassing paid speech APIs.
-* Engineered a production-ready Flask application that utilizes faster-whisper for audio transcription and local LLMs via Ollama to generate structured insurance claim insights, including sentiment, intent, and action items
+* Developed an AI-driven call analysis service for insurance claim identification, leveraging automated transcription and optimized local LLMs to generate structured insights on sentiment, intent, and actionable data.
 * Provided technical consulting on AI integration and ethics for the Industrial Development Board (IDB) and various volunteering programs.
 
 **BI Developer (Part-time) | Bluechip Technologies Asia**  
