@@ -69,15 +69,6 @@ Results-oriented individual committed to engineering excellence and data-driven 
 
 ---
 
-### GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhananjayaDev&show_icons=true&theme=dark&hide_border=true&align=center" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjayaDev&layout=compact&theme=dark&hide_border=true&align=center" width="38%" />
-</p>
-
----
-
 ### Contact Information
 
 * **Email:** d.dhananjaya@outlook.com
