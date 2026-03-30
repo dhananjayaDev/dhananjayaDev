@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://github.com/dhananjayaDev/dhananjayaDev/blob/main/Dhananjaya%20(8).png" width="100%" alt="Dhananjaya Banner">
+  <img src="https://github.com/dhananjayaDev/dhananjayaDev/blob/main/ml_life_cycle.png" width="100%" alt="Dhananjaya Banner2">
 </p>
 
 <p align="center">
