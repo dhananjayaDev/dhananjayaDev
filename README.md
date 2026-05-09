@@ -1,5 +1,9 @@
 # Dhananjaya Dissanayake
 
+<p align="center">
+  <!-- <img src="https://github.com/dhananjayaDev/dhananjayaDev/blob/main/Dhananjaya%20(8).png" width="100%" alt="Dhananjaya Banner"> -->
+  <img src="https://github.com/dhananjayaDev/dhananjayaDev/blob/main/ml_life_cycle.png" width="100%" alt="Dhananjaya Banner2">
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhananjayadissanayake/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
